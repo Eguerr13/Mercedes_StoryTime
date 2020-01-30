@@ -1,13 +1,13 @@
 Raesfeld 
-Flughafen
+Flughafen - Airport
 Berlin 
 Bratwurst 
-Hauptstrasse 
-Brot 
+Hauptstrasse - main road
+Brot - loaf
 Gauss 
-Klimaanlage 
+Klimaanlage - air conditioning
 Rammstein
-Musik 
+Musik - music
 Porsche 
 BMW 
 Biergarten 
